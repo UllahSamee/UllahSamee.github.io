@@ -1,0 +1,21 @@
+---
+title: "Contact"
+#description-meta: "{{< meta description-meta >}}"
+title-block-banner: false
+---
+
+<center>
+
+**Samee Ullah**
+
+Nation Center for Bioinformatics (NCB)
+
+Quaid-i-Azam University (QAU)
+
+Islamabad, PK 44000
+
+E-mail: <sameeullah@bs.qau.edu.pk>
+
+Cell phone: +92 (344) 8094694
+
+</center>

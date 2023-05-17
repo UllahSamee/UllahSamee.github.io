@@ -1,0 +1,19 @@
+---
+title: "What’s New & Updated"
+subtitle: "Posts about papers, events, news, and more"
+#description-meta: "{{< meta description-meta >}}"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  page-size: 50
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true
+#page-layout: full
+page-navigation: true
+title-block-banner: false
+---
+
+
