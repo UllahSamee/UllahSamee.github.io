@@ -28,7 +28,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen%207%205800H-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen%207%205800H-%230071C5.svg?&style=for-the-badge&logo=&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-RTX%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
