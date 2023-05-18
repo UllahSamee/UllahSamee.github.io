@@ -22,10 +22,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen%207%205800H-%230071C5.svg?&style=for-the-badge&logo=&logoColor=white" />
