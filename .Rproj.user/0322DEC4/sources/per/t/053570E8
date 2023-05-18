@@ -1,9 +1,9 @@
 {
     "id": "053570E8",
-    "path": "~/ullahsamee.github.io-main/ullahsamee.github.io-main/index.qmd",
+    "path": "~/ullahsamee/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2856763643",
+    "hash": "1209769175",
     "contents": "",
     "dirty": false,
     "created": 1684269410672.0,
@@ -16,17 +16,18 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2740:1100",
+        "rmdVisualModeLocation": "2056:934.4000244140625",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "docOutlineSize": "113"
+        "docOutlineSize": "113",
+        "ignored_words": "Ullah,Samee,Bioinformatician\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684311513,
+    "lastKnownWriteTime": 1684352636,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684311513743,
+    "last_content_update": 1684352636380,
     "read_only": false,
     "read_only_alternatives": []
 }

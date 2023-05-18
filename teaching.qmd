@@ -1,16 +1,16 @@
 ---
-title: "Teaching"
-subtitle: "I teach classes on energy systems, energy transition, and energy innovations. Here I list classes which I start to open source teaching material."
+title: "Workshops"
+subtitle: "I teach classes on protein structures dynamics and function. Here I list classes which I start to open source teaching material."
 #description-meta: "{{< meta description-meta >}}"
 title-block-banner: false
 ---
 
-## Energy Systems Analysis
+## Molecular Dynamics Simulation
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-2}
-[![](/files/images/hex-EnergySystemsAnalysis.png)](https://ullahsamee.github.io/est603-energy-systems-analysis-2022-fall/)
+[![](/files/images/mds.png)](https://ullahsamee.github.io/est603-energy-systems-analysis-2022-fall/)
 
 :::
 

@@ -8,7 +8,7 @@ title-block-banner: false
 
 **Samee Ullah**
 
-Nation Center for Bioinformatics (NCB)
+National Center for Bioinformatics (NCB)
 
 Quaid-i-Azam University (QAU)
 
