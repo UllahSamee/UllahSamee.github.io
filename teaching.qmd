@@ -1,45 +1,42 @@
 ---
-title: "Workshops"
-subtitle: "I teach classes on protein structures dynamics and function. Here I list classes which I start to open source teaching material."
+title: "My talks and presentations in different workshops, trainings, webinars and symposiums I pparticipated "
+subtitle: "During pandemic, while working at National Institue of Health(NIH) during two year project, I trained many staff and supervised several undergraduates and graduates in research related to proteins structures, interactions and dynamics"
 #description-meta: "{{< meta description-meta >}}"
 title-block-banner: false
 ---
 
-## Molecular Dynamics Simulation
+## iSM-Integrative Structural and Molecular Biology Programme 2021
 
-::: {.grid}
-
+::: grid
 ::: {.g-col-12 .g-col-md-2}
-[![](/files/images/mds.png)](https://ullahsamee.github.io/est603-energy-systems-analysis-2022-fall/)
-
+[![](/files/images/ism.jpg)](https://ullahsamee.github.io/est603-energy-systems-analysis-2022-fall/)
 :::
 
 ::: {.g-col-12 .g-col-md-10}
+::: {style="position: relative; width: 100%; height: 0; padding-top: 48.1481%;  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;  border-radius: 8px; will-change: transform;"}
+<iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" src="https://www.canva.com/design/DAEplpadL3Y/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
 
-[Fall 2022](https://ullahsamee.github.io/est603-energy-systems-analysis-2022-fall/)
-
-“All models are wrong, but some are useful”. This class offers a systems approach and introduces useful modeling tools and skillsets to capture and reveal the grand challenges and opportunites of energy systems. The scope of this class includes energy systems overview, make sense of energy numbers, energy project economics, energy sources and technologies, energy demand, energy, environment, and human health, energy and climate change, power system analysis, energy transition, energy efficiency, behavior, and sustainable consumption, energy poverty, access, and justice, big data and AI for clean energy, limitations of models, and other emerging topics for the energy systems to achieve carbon neutrality.
-
+</iframe>
 :::
 
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEplpadL3Y&#x2F;view?utm_content=DAEplpadL3Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">iSM-Integrative Structural and Molecular Biology Programme 2021</a> training organized at NIH
+
+This workshop provided computational trainings and lab-based experience to graduates and undergraduates in the application of structural biology tools and techniques to understand the inner workings of proteins machinery of the cell. Exploiting technological advances to transform our understanding of proteins mechanisms such as protein-protein interactions, protein-ligand interactions will require scientists who have been trained across the distinct disciplines of natural sciences, structural biologists and molecular biologists. The iSM Programme addresses this training need and will help prepare participants to be successful in a variety of biological fields.
+
+**Projects covered topics;** SARS-CoV-2 diagnostics, primers designing, PCR, sequence analysis, Vaccine targets prediction, In-Silico vaccine designing, protein structure and function analysis, structure-based drug designing (SBDD), Virtual screenings, molecular modeling, protein structure quality assessments, Insilico pharmacokinetics, ADMET, lead optimization, drug-likeness, ligand-based structure similarity searching, and chemoinformatics to build virtual drug libraries for therapeutic purpose against infectious diseases.
+:::
 :::
 
+Some clicks of the iSM 2021 📸:
 
-##  Advanced Science, Technology, and Innovation Policy
+![Bernie auditorium NIH](images/PXL_20210806_054026705~2-01.jpg)
 
-::: {.grid}
+![](images/PXL_20210806_054022884.jpg)
 
-::: {.g-col-12 .g-col-md-2}
-[![](/files/images/hex-STIP.png)](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
+![](images/PXL_20210806_054014317.jpg)
 
-:::
+![](images/PXL_20211008_063816967.MP-01.jpg)
 
-::: {.g-col-12 .g-col-md-10}
+![](images/PXL_20211008_072058997.MP.jpg)
 
-[Spring 2023](https://www.ganghe.net/teaching/EST625-2023-Advanced-Science-Technology-and-Innovation-Policy) &nbsp; | &nbsp;  [Spring 2022](https://www.ganghe.net/teaching/EST625-2022-Advanced-Science-Technology-and-Innovation-Policy)
-
-This PhD seminar evaluates ideas and applications of science, technology, policy and innovation systems by drawing from a wide range of early and current literature and case studies. Emphasis is placed on deconstructing seminal ideas and practices in the context of policy and technology change. Students will refine analytical and communication skills that are relevant for working in positions at the interface of technology, policy, and innovation.
-
-:::
-
-:::
+## 

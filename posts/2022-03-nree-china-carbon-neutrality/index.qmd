@@ -1,28 +1,19 @@
 ---
-title: "Challenges and opportunities for carbon neutrality in China"
-description: "In this Perspective, we summarize the key features of China’s CO2 emissions, its reduction processes and successes in meeting climate targets."
+title: "Computational prediction of potential drug-like compounds from Cannabis sativa leaf extracts targeted towards Alzheimer therapy"
 author: 
-  - name: Zhu Liu
-  - name: Zhu Deng
-  - name: Gang He
-  - name: Hailin Wang
-  - name: Xian Zhang
-  - name: Jiang Lin
-  - name: Ye Qi
-  - name: Xi Liang
+  - name: Samee Ullah
 date: "2022-03-01"
 categories: [paper]
 image: "featured.png"
 citation:
   type: article-journal
-  container-title: "Nature Reviews Earth & Environment"
-  volume: 3
-  issue: 2
-  page: 141–155
-  available-date: "2021-12-21"
-  issued: "2022-02-01"
-  doi: "10.1038/s43017-021-00244-x"
-  url: https://www.nature.com/articles/s43017-021-00244-x
+  container-title: "Journal of Molecular Liquids"
+  volume: 360
+  issue: 119393
+  available-date: "2022-08-15"
+  issued: "2022-05-16"
+  doi: "10.1016/j.molliq.2022.119393"
+  url: https://doi.org/10.1016/j.molliq.2022.119393
 bibliography: cite.bib
 google-scholar: true
 css: /custom.css
@@ -30,31 +21,33 @@ include-in-header:
   - canonical.html
 ---
 
-::: {.callout-note}
+::: callout-note
 ## Paper
-Challenges and opportunities for carbon neutrality in China    
-Zhu Liu\*, Zhu Deng, **Gang He**, Hailin Wang, Xian Zhang, Jiang Lin, Ye Qi, and Xi Liang  
-*Nature Reviews Earth & Environment* (2022)  
-DOI: [10.1038/s43017-021-00244-x](https://doi.org/10.1038/s43017-021-00244-x)
+
+Adewale Oluwaseun Fadaka, Odunayo Anthonia Taiwo, Oluwatosin Adebisi Dosumu, Oluwafemi Paul Owolabi, Adebola Busola Ojo, Nicole Remaliah Samantha Sibuyi, **Samee Ullah**, Ashwil Klein, Abram Madimabe Madiehe, Mervin Meyer, Oluwafemi Adeleke Ojo,\
+*Journal of Molecular liquids* (2022)\
+DOI: [https://doi.org/10.1016/j.molliq.2022.119393](https://www.sciencedirect.com/science/article/abs/pii/S016773222200931X)
 :::
 
 ## Abstract
 
-China is currently the world's largest emitter of carbon dioxide (CO2). China therefore has a key role in global climate change mitigation. Policies and commitments are required to enable decarbonization. In this Perspective, we summarize the key features of China's CO2 emissions, its reduction processes and successes in meeting climate targets. China's CO2 emissions reductions have been substantial by 2020, carbon intensity decreased by 48.4 percent compared to 2005 levels, achieving objectives outlined in the Nationally Appropriate Mitigation Actions and Nationally Determined Contributions. These reductions rely on the achievements of sectoral and sub-national targets outlined by China's Five-Year Plans. However, China still faces the challenges of reaching its peak total CO2 emissions before 2030 and achieving carbon neutrality before 2060. Key steps towards China's carbon neutrality include increasing its non-fossil energy share, deploying negative-emission technologies at large scale, promoting regional low-carbon development and establishing a nationwide 'green market'. To achieve these steps, top-down socio-economic development plans must coincide with bottom-up economic incentives and technology development.
+This study was aimed at evaluating the inhibitory effects of the phytochemicals from the Cannabis sativa (Cannabis) leaf extracts against Alzheimer's disease (AD) protein targets. Twelve compounds derived from the Cannabis sativa leaf extracts were evaluated as potential inhibitors of acetylcholinesterase (AChE), dopa decarboxylase (DDC), serotonin receptor 2C (HTR2C) and monoamine oxidase (MAO). Ligand-based and receptor-ligand complex were used to derive the pharmacophore hypothesis. In silico study through molecular docking simulation method was adopted to analyze the inhibitory activity of the compounds in question. Molecular dynamic simulation (MDs) was performed to assess the stability of the top-ranked phytochemicals. The binding energies of these compounds to the four targets were investigated by the Molecular Mechanics for the Generalized Born Model and Solvent Accessibility method (MM-GBSA). The binding-free energy suggests that cannabinol, cannabichromene, linoelaidic acid and morphinan-6-one can be utilized as lead compounds in drug discovery and development of AD to inhibit activity of AChE, DCC gene, MAO and HTR2C. The MDs indicated that AChE-Cannabinol, DCC-Cannabicoumaronone, MAO-Linoelaidic acid, and HTR2C-morphinan-6-one were stable over the entire course of 100 ns suggesting their role in the regulation of the diseases in which their respective receptors are implicated.
 
 ## Links
 
-Published [paper](https://www.nature.com/articles/s43017-021-00244-x)
+Published [paper](https://www.sciencedirect.com/science/article/abs/pii/S016773222200931X)
 
-Open access [pdf](https://www.nature.com/articles/s43017-021-00244-x.pdf)
+Researchgate [pdf](https://www.researchgate.net/publication/360637789_Computational_Prediction_of_Potential_Drug-like_Compounds_from_Cannabis_sativa_Leaf_Extracts_Targeted_towards_Alzheimer_Therapy)
 
-[Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs43017-021-00244-x/MediaObjects/43017_2021_244_MOESM1_ESM.pdf)
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+```
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.molliq.2022.119393"}
+:::
 
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s43017-021-00244-x"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1038/s43017-021-00244-x" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

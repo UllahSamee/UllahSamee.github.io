@@ -51,27 +51,35 @@ listing:
       - "title asc"
 ---
 
-<link rel="me" href="https://mastodon.social/@hegang">
 
 ::: {#hero-heading}
-I am Samee Ullah,a **Structural Biologist** and a former **Bioinformatician** at [National Institute of Health (NIH)](https://www.nih.org.pk/) [Islamabad](https://www.youtube.com/watch?v=7_WuTK9fH9Y) Pakistan. I specialize in understanding the structure and dynamics of proteins. My experience in protein structures modeling, De novo design, protein-protein interactions, and simulations allows me to predict how these molecules will interact with one another. I believe that understanding the structure & function of these molecules is essential to unlocking new treatments for diseases. I am constantly striving to improve my skills so that I can contribute to the advancement of science.
+Structural Biologist and deep interest in proteins and nucleic acid structures, their interactions with peptides, small molecules and membranes. My passion for exploring the intricate world of biomolecular structures drives me to dive deep into their complexities using state-of-the-art tools and technique. Previously I worked as a **Bioinformatician** at [National Institute of Health (NIH)](https://www.nih.org.pk/){style="font-size: 11pt;"} [Islamabad](https://www.youtube.com/watch?v=7_WuTK9fH9Y){style="font-size: 11pt;"} Pakistan. I possess strong expertise in the areas of proteins structural modeling and analysis, De-novo design, simulations, binding energy and affinity analysis. I believe that understanding the structure & function of these molecules is essential to unlocking new treatments for diseases. I am constantly striving to improve my skills so that I can contribute to the advancement of science.
+
 
 **Discipline:** *Structural Biology*
 
-![3D atomic structures](images/structuralbiology.jpg){width="450"}
+::: {style="width:100%;height:0;padding-bottom:56%;position:relative;"}
+<iframe src="https://giphy.com/embed/TesEfAlnf71SuBusfp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-**Skills and expertise**
-
-Scanning Electron Microscopy (SEM) **\|** Nuclear magnetic resonance spectroscopy(NMR) **\|** Fourier-transform infrared spectroscopy (FTIR) **\|** light microscopy **\|** Atomic absorption spectroscopy **\|** DNA and Plasmid extraction **\|** PCR **\|** Gel electrophoresis **\|** Bacterial cell culturing **\|** Centrifugation **\|** Broth & media preparation **\|** Western blot **\|** Sterilization **\|** General labmaintenance and safety compliance **\|** Good laboratory practices (GLP)
+</iframe>
 :::
 
-Samee's most recent collaborative analysis on the cost savings of global solar PV supply chains was published by [*Nature*](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd), and was awarded the [Best Poster Award](/posts/2022-12-iamc-2022-best-poster-award/index.qmd) by the Integrated Assessment Modeling Consortium (2022). He was selected as Youth Delegate to UNFCCC CoP11 (2005), Asia 21 Young Leaders (2007), Aspen Environment Forum Scholars (2011), Young Scholar of Institute for New Economic Thinking (2013), and [ITIF Energy Innovation Policy and Management Scholar](https://itif.org/events/2019/05/19/2019-itif-energy-innovation-boot-camp-for-early-career-scholars/) (2019).
+<p><a href="https://giphy.com/gifs/Nanome-TesEfAlnf71SuBusfp"> </a></p>
 
-Samee is a faculty affiliate with the [Lawrence Berkeley National Laboratory](https://eta.lbl.gov/people/gang-he). He has worked for the [Program on Energy and Sustainable Development](https://pesd.fsi.stanford.edu/people/Gang_He) at Stanford University. He received his Ph.D. in [Energy and Resources](https://erg.berkeley.edu/people/gang-he/) from University of California, Berkeley. He also holds an M.A. in climate and society from Columbia University, and a B.S. and M.S. in Geography from Peking University.
+#### **Skills and expertise**
+
+**Experiemental:** *Nuclear magnetic resonance spectroscopy(NMR) **\|** light microscopy **\|** Atomic absorption spectroscopy **\|** DNA and Plasmid extraction **\|** PCR **\|** Gel electrophoresis **\|** Bacterial cell culturing **\|** Centrifugation **\|** Broth & media preparation **\|** Western blot **\|** Sterilization **\|** Good laboratory practices (GLP)*
+
+**Computational:** Deep learning based protein structures modelling \| protein structural analysis \| Protein-Protein and peptide, small mol. interactions \| Membrane modelling, De-novo design & Simulations \| CryoEM data analysis, 2D preprocessing, Geometrical particle picking, Initial model generation, Particle pose optimisation, Subtomogram averaging, Multi-particle refinement, cryoDRGN, cryoSPARC, cisTEM, Coot, UCSF ChimeraX, Phenix, MotionCor2, CTFFIND4 Programming Linux, R, NumPy, Biopython, PyTorch, NVIDIA Docker, Anaconda, Jupyter Notebook \| Image analysis ImageJ, Bio-Blender, Icy
+:::
+
+Samee's most recent corresponding author paper, [*Computational insights on the destabilizing mutations in the binding site of 3CL-protease SARS-CoV-2 Omicron (VOC)*](https://www.biorxiv.org/content/10.1101/2023.05.24.542061v1) is now availabe at biorxiv preprint server.\*
+
+After completing his MPhil in Bioinformatics from the [National Center for Bioinformatics (NCB)](#0){style="font-size: 11pt;"}, samee joined the [National Institute of Health (NIH)](https://www.nih.org.pk/){style="font-size: 11pt;"} as a **Bioinformatican** during pandemic in a two year project title "*Lab Diagnostic and Existing Surveilliance System Strengthening for Pandemic Outbreak Management*" funded by Bill & Melinda Gates Foundation. During this time, he worked on "*SARS-CoV-2 genomic sequences* *and screened the variants including B.1.1.7 and OMICRON first case reports in Pakistan for the mutation, structure based drug design studies".* He co-authored many Q1 research articles with the prestigious institutes including Ohio State University USA, National Research Council (CNR) Italy and King Abdullah International Medical Research Center (KAIMRC). He also trained more than 70 graduates and undergraduates in the Computaional Structural biology techniques at NIH during pandemic as well.
 
 ## Recent Posts
 
-Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+Check out the latest [Papers](posts.qmd#category=paper), [News](posts.qmd#category=news), [Events](posts.qmd#category=event), and [More »](/posts.qmd)
 
 ::: {#recent-posts}
 :::

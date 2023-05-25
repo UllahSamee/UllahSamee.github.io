@@ -103,5 +103,11 @@
   },
   "contact.qmd": {
     "contact.html": "8c24ae59"
+  },
+  "posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.qmd": {
+    "index.html": "1ee656de"
+  },
+  "posts/2023-04-12-Computational-insights-on-destabilizing-mutations-in-bindingsite-3clprotease-sarscov2-omicron/index.qmd": {
+    "index.html": "d877b56c"
   }
 }

@@ -19,3 +19,5 @@ E-mail: <sameeullah@bs.qau.edu.pk>
 Cell phone: +92 (344) 8094694
 
 </center>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39196.186802723976!2d73.12088741430965!3d33.74506829889848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfc110f2eeba99%3A0x32ef6990bf27667a!2zTmF0aW9uYWwgQ2VudGVyIEZvciBCaW9pbmZvcm1hdGljcyDZgtmI2YXbjCDZhdix2qnYsiDYqNix2KfYptuSINit24zYp9iq24zYp9iq24wg2KfYt9mE2KfYuduM2KfYqg!5e0!3m2!1sen!2s!4v1685003474772!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

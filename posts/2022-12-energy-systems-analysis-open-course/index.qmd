@@ -1,69 +1,78 @@
 ---
-title: "Open Course on Energy Systems Analysis"
-description: "Gang opens his Energy Systems Analysis class and hope the energy community find it resourceful."
-author: "Gang He"
-date: "2022-12-15"
+title: "Participated in CryoEM introductory Workshop 2-4 Febraury 2022"
+description: "This workshop is an introduction to cryo electron microscopy, organized by Novo Nordisk Foundation Center for protein Research (CPR) and Core Facility for Integrated Microscopy (CFIM) at University of Copenhagen."
+date: "2023-05-22"
 categories: [news]
 image: "featured.png"
 css: /custom.css
 ---
 
-## Course Link
+## Workshop zoom Link(now expired)
 
-<https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/>{target="_blank"}
+[https://ucph-ku.zoom.us/j/62991965634?pwd=UkZHQ200UWVaQnR2RlBWb2RGV0JNdz09](https://ucph-ku.zoom.us/j/62991965634?pwd=UkZHQ200UWVaQnR2RlBWb2RGV0JNdz09){target="_blank"}
 
+## Agenda of the Workshop
 
-## Fundamental and Emerging Energy Topics
+#### **2-Feb** 
 
-- Lecture 1: [Introduction](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture1/index.html){target="_blank"}  
-- Lecture 2: [Make sense of energy numbers](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture2/index.html){target="_blank"}  
-- Lecture 3: [Energy systems overview](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture3/index.html){target="_blank"} 
-- Lecture 4: [Economics for energy systems analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture4/index.html){target="_blank"} 
-- Lecture 5: [Energy sources](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture5/index.html){target="_blank"}  
-- Lecture 6: [Energy demand](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture6/index.html){target="_blank"}  
-- Lecture 7: [Energy, environment, and health](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture7/index.html){target="_blank"}   
-- Lecture 8: [Energy and climate change](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture8/index.html){target="_blank"} 
-- Lecture 9: [Power sector analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture9/index.html){target="_blank"}  
-- Lecture 10: [Energy transition](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture10/index.html){target="_blank"} 
-- Lecture 11: [Energy efficiency, behavior, and sustainable consumption](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture11/index.html){target="_blank"} 
-- Lecture 12: [Energy poverty, access, and justice](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture12/index.html){target="_blank"}  
-- Lecture 13: [Big data and AI for clean energy](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture13/index.html){target="_blank"}   
-- Lecture 14: [Limitations of models](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture14/index.html){target="_blank"}  
-- Lecture 15: [Review and summary](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/lectures/lecture15/index.html){target="_blank"}  
+-   9:00-9:15 Introduction ([Dr. Guillermo Montoya](https://www.cpr.ku.dk/research/protein-structure-function-program/montoya/))
 
+-   9:15-9:30 Intro to CFIM ([Tillmann Pape](https://www.cpr.ku.dk/staff/montoya-group/?pure=en/persons/595110))
 
-## Real-world Energy Assignments
+-   9:30-10:30 Lecture1: Sample preparation for single particle averaging (Tillmann Pape)
 
-- HW0: [IRA emission reduction assessment](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw0.html){target="_blank"}  
-- HW1: [Air quality in China and India](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw1.html){target="_blank"}   
-- HW2: [Energy project economics](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw2.html){target="_blank"}    
-- HW3: [Energy technology and impacts](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw3.html){target="_blank"}  
-- HW4: [Load forecast, energy justice](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/assignments/hw4.html){target="_blank"}  
+-   11:00-12:15 Lecture 2: Data collection strategies (Tillmann Pape)
 
+-   13:15-14:45 Lecture 3: EM theory (transmission electron microscope, image formation, focus, phase contrast, contrast transfer function, image processing, resolution ([Nicholas Taylor](https://www.cpr.ku.dk/research/protein-structure-function-program/taylor/))
 
-## Social Media Posts
+Break
 
+-   15:45-17:00 Lecture 4: Cryo-electron tomography and subtomogram averaging. ([Simon Erlendsson](https://www.cpr.ku.dk/staff/?pure=en/persons/303206))
 
-### LinkedIn
-<style>
-  /* Style for screens with a width less than 550px */
-  @media (max-width: 550px) {
-    iframe {
-      width: 100%;
-      height: auto;
-    }
-  }
-</style>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7008437031106191362" height="1250" width="550" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+#### **3-Feb** 
 
+-   9:00-10:30 Lecture 5: cryoSPARC ([Nicholas Sofos](https://www.cpr.ku.dk/staff/?id=579310&vis=medarbejder))
 
-### Twitter 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A semester&#39;s effort to open my &quot;Energy Systems Analysis&quot; class.<br><br>15 Lectures, covering overview, economics, technologies, climate, power, transition, efficiency, access, justice, AI and big data, limitations ...<br><br>5 Real-world assignments.<br><br>And more:<a href="https://t.co/hK3uM7tik5">https://t.co/hK3uM7tik5</a> <a href="https://t.co/enxLzoS3HE">https://t.co/enxLzoS3HE</a> <a href="https://t.co/1r88HtOBRW">pic.twitter.com/1r88HtOBRW</a></p>&mdash; Gang He (@DrGangHe) <a href="https://twitter.com/DrGangHe/status/1602652144561274881?ref_src=twsrc%5Etfw">December 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-   11:00-12:30 Lecture 9: Alphafold in Model building (Chimera, ChimeraX & Coot) ([Dr.Eva Kummer](https://www.cpr.ku.dk/research/protein-structure-function-program/kummer/))
 
-Many students do not have access to high-quality learning material in energy and climate change, especially in the underserved communities. If you like this work, you can help those in need to access the open-source course by spreading the word. 
+Lunch
+
+-   13:30-14:30 Lecture 10: X-ray crystallography, CryoEM, phasing and Phenix Refine (Guillermo Montoya)
+
+#### **4-Feb** 
+
+-   10:00-11:15 Lecture 6: CisTEM ([Pablo Mesa](https://www.cpr.ku.dk/staff/?pure=en%2Fpersons%2Fpablo-mesa(a2d4d7ab-b0f1-484c-a79e-cddd6444458c).html))
+
+-   11:45-12:00 Lecture 7: Relion (Pablo Mesa)
+
+-   13:00-14:00 Lecture 7: Relion (Pablo Mesa)
+
+Break
+
+-   14:30-15:30 Lecture 8: Introduction to cryoDRGN (Pablo Mesa)
+
+\-\-\-\-\--Finished\-\-\-\-\--
+
+Here's some nice clicks 📸
+
+![](images/4-01.png)
+
+![](images/3.png)
+
+![](1.png)
+
+![](images/1.png)
+
+![](images/Screenshot%202022161749.png)
+
+![](images/Screenshot%202022-02-02%20160444.png)
+
+![](images/Screenshot%20202.png)
+
+![](images/Screenshot%202022-02-02.png)
+
+![](images/Screenshot%202095028.png)
 
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}
-
-
