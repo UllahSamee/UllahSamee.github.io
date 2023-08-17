@@ -1,0 +1,60 @@
+---
+title: "A novel de novo loss of function variant in the DNA-binding domain of TBX2 causes severe osteochondrodysplasia"
+author: 
+  - name: Samee Ullah
+date: "2022-03-01"
+categories: [paper]
+image: "featured.png"
+citation:
+  type: article-journal
+  container-title: ""
+  doi: "10.3389/fgene.2022.1117500"
+  available-date: "2022-01-17"
+  issued: "2022-03-01"
+  volume: 13
+  issue: 1117500
+  url: https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full
+bibliography: cite.bib
+google-scholar: true
+css: /custom.css
+---
+
+<!--Include academic icons or bottons-->
+
+{{< include /files/includes/_academic.qmd >}}
+
+::: {.callout-note}
+## Paper
+Misbahuddin M Rafeeq, Hussam Aly Sayed Murad, **Samee Ullah**, Zaheer Ahmed, Qamre Alam, Muhammad Bilal, Alaa Hamed Habib, Ziaullah M Sain, Muhammad Jawad Khan, Muhammad Umair,\
+*Frontiers in Genetics* (2022)\
+DOI: [https://doi.org/10.3389/fgene.2022.1117500](https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full)
+:::
+
+## Abstract
+
+Background T-box family members are transcription factors characterized by highly conserved residues corresponding to the DNA-binding domain known as the T-box. TBX2 has been implicated in several developmental processes, such as coordinating cell fate, patterning, and morphogenesis of a wide range of tissues and organs, including lungs, limbs, heart, kidneys, craniofacial structures, and mammary glands.
+
+Methods In the present study, we have clinically and genetically characterized a proband showing a severe form of chondrodysplasia with developmental delay. Whole-exome sequencing (WES), Sanger sequencing, and 3D protein modeling were performed in the present investigation.
+
+Results Whole-exome sequencing revealed a novel nonsense variant (c.529A>T; p.Lys177*; NM_005994.4) in TBX2. 3D-TBX2 protein modeling revealed a substantial reduction of the mutated protein, which might lead to a loss of function (LOF) or nonsense-mediated decay (NMD).
+
+Conclusion This study has not only expanded the mutation spectrum in the gene TBX2 but also facilitated the diagnosis and genetic counseling of related features in affected families.
+
+## Links
+
+Published [paper](https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full)
+
+Researchgate [pdf](https://www.researchgate.net/publication/367206840_A_novel_de_novo_loss_of_function_variant_in_the_DNA-binding_domain_of_TBX2_causes_severe_osteochondrodysplasia?_sg%5B0%5D=yegY-KSBI16fEnAKniStG0rDpldFHWWVxpV33kcLv0Y8MeQjrDgNW4zEbzskdCJbz1JRfl29xnXlge11Y3A4dE1IUqoZ9YWUWOQGv5EC.g_Y2SPWFU7IOV4l15HeglmzaNMXHydHx5X7kMaVehYnQqrPNbu2txaopP6EFH5uQt08fuu0r_It_E6uOIhjMWw)
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+```
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.molliq.2022.119393"}
+:::
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

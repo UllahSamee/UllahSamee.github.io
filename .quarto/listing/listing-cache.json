@@ -5,6 +5,16 @@
     ],
     "posts.qmd": [
       "posts"
+    ],
+    "Certifications.qmd": [
+      "posts",
+      "certifications"
+    ],
+    "certifications.qmd": [
+      "certifications"
+    ],
+    "tutorials.qmd": [
+      "tutorials"
     ]
   }
 }

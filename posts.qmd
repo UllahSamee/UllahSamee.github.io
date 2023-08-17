@@ -15,5 +15,3 @@ listing:
 page-navigation: true
 title-block-banner: false
 ---
-
-

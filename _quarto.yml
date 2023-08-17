@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Samee Ullah is a Computational Structural Biologist and a former Bioinformatician at National Institute of Health. He studies the protein and nucleic acids structures, dynamics and interaction with small molecules using the state of the art methods of Molecular dynamics simulations, and physics based binding energy calculations."
+description-meta: "Samee Ullah is a Computational Structural Biologist"
 author-meta: "Samee Ullah"
 
 website:
   title: "Samee Ullah"
   image: "/files/ullah-samee-profile.jpeg"
-  description: "Samee Ullah is a Computational Structural Biologist and a former Bioinformatician at National Institute of Health. He studies the protein and nucleic acids structures, dynamics and interaction with small molecules using the state of the art methods of Molecular dynamics simulations, and physics based binding energy calculations."
+  description: "Samee Ullah is a Computational Structural Biologist"
  
   navbar:
     background: light
@@ -27,16 +27,16 @@ website:
         menu:
           - text: Selected Papers
             href: posts.qmd#category=paper
-          - text: Commentary
-            href: posts.qmd#category=commentary
-          - text: Testimony
-            href: posts.qmd#category=testimony
           - text: List of Publication
             href: publications.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Posts
-        href: posts.qmd       
+        href: posts.qmd
+      - text: Certifications
+        href: certifications.qmd
+      - text: Tutorials
+        href: tutorials.qmd
       - text: Contact
         href: contact.qmd   
     

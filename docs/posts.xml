@@ -8,7 +8,7 @@
 <title>Samee Ullah</title>
 <link>https://ullahsamee.github.io/posts.html</link>
 <atom:link href="https://ullahsamee.github.io/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Samee Ullah is a Computational Structural Biologist and a former Bioinformatician at National Institute of Health. He studies the protein and nucleic acids structures, dynamics and interaction with small molecules using the state of the art methods of Molecular dynamics simulations, and physics based binding energy calculations.</description>
+<description>Samee Ullah is a Computational Structural Biologist</description>
 <image>
 <url>https://ullahsamee.github.io/files/ullah-samee-profile.jpeg</url>
 <title>Samee Ullah</title>
@@ -182,21 +182,54 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://ullahsamee.github.io/posts/2022-12-energy-systems-analysis-open-course/featured.png" medium="image" type="image/png" height="80" width="144"/>
 </item>
 <item>
-  <title>Importation of SARS‐CoV‐2 Variant B.1.1.7 in Pakistan</title>
-  <link>https://ullahsamee.github.io/posts/2022-12-iamc-2022-best-poster-award/index.html</link>
+  <title>De novo design of anti-variant COVID vaccine with T-cell memory</title>
+  <dc:creator>Samee Ullah</dc:creator>
+  <link>https://ullahsamee.github.io/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.html</link>
   <description><![CDATA[ 
 
 
 
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://ullahsamee.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">letter to the editor Journal of Medical Virology IF 20.7</figcaption>
-</figure>
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>This article reports the first detection of the SARS-CoV-2 variant B.1.1.7 in Pakistan, which was imported from the United Kingdom by travelers. The variant was identified by genomic sequencing of samples collected from 12 passengers who tested positive for COVID-19 upon arrival at the Islamabad airport. We describe the epidemiological and clinical characteristics of the cases, as well as the public health measures taken to prevent further spread of the variant in the country. Furthermore highlighting the need for enhanced surveillance and testing of international travelers, as well as genomic characterization of <em>SARS-CoV-2</em> strains circulating in Pakistan.</p>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Arpita Goswami1, S. Madan Kumar, <strong>Samee Ullah</strong>, Milind M. Gore<br>
+<em>bioRxiv</em> (2022)<br>
+DOI: <a href="https://www.biorxiv.org/content/early/2022/10/20/2022.10.20.513049">10.1101/2022.10.20.513049</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Recent studies have shown the efficacy of hybrid COVID-19 vaccines using wild-type nucleocapsid (N) and Spike (S) protein. We upgrade this strategy by one step further using clinically proven spike protein (but with delta and post-delta omicron mutations) and nucleocapsid peptides conferring T-cell immunity. As per the latest research nucleocapsid peptides are perfect immunological replacement of nucleocapsid protein. Therefore, peptide linking strategy is pursued (economic for cellular biosynthesis than whole protein). One envelope peptide with potent T-cell response is also chosen. This peptide is also functionally indispensable for the virus. All these peptides were clustered in our designed cytoplasmic domain separated by non-immunogenic helical linkers. We also propose the idea of introduction of any T-cell peptide similar to other Human Corona Viruses (HuCoV) in these linker regions whenever required. In addition to COVID, the same approach can be applied for any emergency or even long-term unsolved outbreaks of Influenza, Dengue and West Nile Virus etc. In this era of novelty as presented by subunit and nucleic acid vaccines, multiepitope strategies like this can help to combat multiple diseases successfully in real time to give hope for better future.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.biorxiv.org/content/early/2022/10/20/2022.10.20.513049">paper</a></p>
+<p>Researchgate <a href="https://www.biorxiv.org/content/early/2022/10/20/2022.10.20.513049">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.molliq.2022.119393">
+
+</div>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -211,22 +244,134 @@ https://quarto.org/docs/authoring/includes.html
 
 </section>
 
- ]]></description>
-  <category>news</category>
-  <category>poster</category>
-  <category>video</category>
-  <guid>https://ullahsamee.github.io/posts/2022-12-iamc-2022-best-poster-award/index.html</guid>
-  <pubDate>Wed, 30 Nov 2022 19:00:00 GMT</pubDate>
-  <media:content url="https://ullahsamee.github.io/posts/2022-12-iamc-2022-best-poster-award/featured.png" medium="image" type="image/png" height="112" width="144"/>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{ullah2022,
+  author = {Ullah, Samee},
+  title = {De Novo Design of Anti-Variant {COVID} Vaccine with {T-cell}
+    Memory},
+  volume = {123},
+  number = {1111111},
+  date = {2022-10-20},
+  url = {https://www.biorxiv.org/content/early/2022/10/20/2022.10.20.513049},
+  doi = {10.1101/2022.10.20.513049},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ullah2022" class="csl-entry quarto-appendix-citeas">
+Ullah, Samee. 2022. <span>“De Novo Design of Anti-Variant COVID Vaccine
+with T-Cell Memory”</span> 123 (1111111). <a href="https://doi.org/10.1101/2022.10.20.513049">https://doi.org/10.1101/2022.10.20.513049</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://ullahsamee.github.io/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.html</guid>
+  <pubDate>Wed, 19 Oct 2022 19:00:00 GMT</pubDate>
+  <media:content url="https://ullahsamee.github.io/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/featured.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
-  <title>Computational prediction of potential drug-like compounds from Cannabis sativa leaf extracts targeted towards Alzheimer therapy</title>
+  <title>A novel de novo loss of function variant in the DNA-binding domain of TBX2 causes severe osteochondrodysplasia</title>
   <dc:creator>Samee Ullah</dc:creator>
-  <link>https://ullahsamee.github.io/posts/2022-03-nree-china-carbon-neutrality/index.html</link>
+  <link>https://ullahsamee.github.io/posts/2022-03-A-novel-denovo-loss-of-function-variant/index.html</link>
   <description><![CDATA[ 
 
 
 
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Misbahuddin M Rafeeq, Hussam Aly Sayed Murad, <strong>Samee Ullah</strong>, Zaheer Ahmed, Qamre Alam, Muhammad Bilal, Alaa Hamed Habib, Ziaullah M Sain, Muhammad Jawad Khan, Muhammad Umair,<br>
+<em>Frontiers in Genetics</em> (2022)<br>
+DOI: <a href="https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full">https://doi.org/10.3389/fgene.2022.1117500</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Background T-box family members are transcription factors characterized by highly conserved residues corresponding to the DNA-binding domain known as the T-box. TBX2 has been implicated in several developmental processes, such as coordinating cell fate, patterning, and morphogenesis of a wide range of tissues and organs, including lungs, limbs, heart, kidneys, craniofacial structures, and mammary glands.</p>
+<p>Methods In the present study, we have clinically and genetically characterized a proband showing a severe form of chondrodysplasia with developmental delay. Whole-exome sequencing (WES), Sanger sequencing, and 3D protein modeling were performed in the present investigation.</p>
+<p>Results Whole-exome sequencing revealed a novel nonsense variant (c.529A&gt;T; p.Lys177*; NM_005994.4) in TBX2. 3D-TBX2 protein modeling revealed a substantial reduction of the mutated protein, which might lead to a loss of function (LOF) or nonsense-mediated decay (NMD).</p>
+<p>Conclusion This study has not only expanded the mutation spectrum in the gene TBX2 but also facilitated the diagnosis and genetic counseling of related features in affected families.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full">paper</a></p>
+<p>Researchgate <a href="https://www.researchgate.net/publication/367206840_A_novel_de_novo_loss_of_function_variant_in_the_DNA-binding_domain_of_TBX2_causes_severe_osteochondrodysplasia?_sg%5B0%5D=yegY-KSBI16fEnAKniStG0rDpldFHWWVxpV33kcLv0Y8MeQjrDgNW4zEbzskdCJbz1JRfl29xnXlge11Y3A4dE1IUqoZ9YWUWOQGv5EC.g_Y2SPWFU7IOV4l15HeglmzaNMXHydHx5X7kMaVehYnQqrPNbu2txaopP6EFH5uQt08fuu0r_It_E6uOIhjMWw">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.molliq.2022.119393">
+
+</div>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{ullah2022,
+  author = {Ullah, Samee},
+  title = {A Novel de Novo Loss of Function Variant in the {DNA-binding}
+    Domain of {TBX2} Causes Severe Osteochondrodysplasia},
+  volume = {13},
+  number = {1117500},
+  date = {2022-03-01},
+  url = {https://www.frontiersin.org/articles/10.3389/fgene.2022.1117500/full},
+  doi = {10.3389/fgene.2022.1117500},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ullah2022" class="csl-entry quarto-appendix-citeas">
+Ullah, Samee. 2022. <span>“A Novel de Novo Loss of Function Variant in
+the DNA-Binding Domain of TBX2 Causes Severe
+Osteochondrodysplasia”</span> 13 (1117500). <a href="https://doi.org/10.3389/fgene.2022.1117500">https://doi.org/10.3389/fgene.2022.1117500</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://ullahsamee.github.io/posts/2022-03-A-novel-denovo-loss-of-function-variant/index.html</guid>
+  <pubDate>Mon, 28 Feb 2022 19:00:00 GMT</pubDate>
+  <media:content url="https://ullahsamee.github.io/posts/2022-03-A-novel-denovo-loss-of-function-variant/featured.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
+<item>
+  <title>Computational prediction of potential drug-like compounds from Cannabis sativa leaf extracts targeted towards Alzheimer therapy</title>
+  <dc:creator>Samee Ullah</dc:creator>
+  <link>https://ullahsamee.github.io/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -274,24 +419,22 @@ https://quarto.org/docs/authoring/includes.html
   title = {Computational Prediction of Potential Drug-Like Compounds
     from {Cannabis} Sativa Leaf Extracts Targeted Towards {Alzheimer}
     Therapy},
-  journal = {Journal of Molecular Liquids},
   volume = {360},
   number = {119393},
-  date = {2022-05-16},
-  url = {https://doi.org/10.1016/j.molliq.2022.119393},
-  doi = {10.1016/j.molliq.2022.119393},
+  date = {2022-03-01},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S016773222200931X?via%3Dihub},
+  doi = {10.1038/s41586-022-05316-6},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ullah2022" class="csl-entry quarto-appendix-citeas">
 Ullah, Samee. 2022. <span>“Computational Prediction of Potential
 Drug-Like Compounds from Cannabis Sativa Leaf Extracts Targeted Towards
-Alzheimer Therapy.”</span> <em>Journal of Molecular Liquids</em> 360
-(119393). <a href="https://doi.org/10.1016/j.molliq.2022.119393">https://doi.org/10.1016/j.molliq.2022.119393</a>.
+Alzheimer Therapy”</span> 360 (119393). <a href="https://doi.org/10.1038/s41586-022-05316-6">https://doi.org/10.1038/s41586-022-05316-6</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://ullahsamee.github.io/posts/2022-03-nree-china-carbon-neutrality/index.html</guid>
+  <guid>https://ullahsamee.github.io/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.html</guid>
   <pubDate>Mon, 28 Feb 2022 19:00:00 GMT</pubDate>
-  <media:content url="https://ullahsamee.github.io/posts/2022-03-nree-china-carbon-neutrality/featured.png" medium="image" type="image/png" height="101" width="144"/>
+  <media:content url="https://ullahsamee.github.io/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/featured.png" medium="image" type="image/png" height="101" width="144"/>
 </item>
 <item>
   <title>Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA</title>
@@ -415,6 +558,101 @@ Thymine-Bearing Tetrapeptide with a Homoadenine DNA”</span> 347
   <guid>https://ullahsamee.github.io/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.html</guid>
   <pubDate>Mon, 31 Jan 2022 19:00:00 GMT</pubDate>
   <media:content url="https://ullahsamee.github.io/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/featured.png" medium="image" type="image/png" height="92" width="144"/>
+</item>
+<item>
+  <title>Importation of SARS-CoV-2 Variant B.1.1.7 in Pakistan</title>
+  <dc:creator>Samee Ullah</dc:creator>
+  <link>https://ullahsamee.github.io/posts/2022-12-Importation-of-b117-variant/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Paper (LETTER TO THE EDITOR)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, <strong>Samee Ullah</strong>,<br>
+<em>Journal of Medical Virology</em> (2021)<br>
+DOI: <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869">https://doi.org/10.1002/jmv.26869</a></p>
+</div>
+</div>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>On December 14, 2020, a variant of SARS‐CoV‐2 characterized as VOC‐202012/01 (lineage B.1.1.7) emerged in the United Kingdom with rapid expansion to over 64 countries as of January 27, 2021. (<a href="https://www.gisaid.org/" class="uri">https://www.gisaid.org/</a>). Analysis of 17,782 whole‐genome sequences submitted to GISAID exhibited several mutations mainly in the spike (S) gene. During the current COVID‐19 pandemic, identification of novel lineages of SARS‐CoV‐2 and tracking their geographic spread are essential to guide public health interventions and travel advice. We hereby report the detection and genetic characterization of two imported cases of the B.1.1.7 variant in Pakistan.</p>
+<p>The oropharyngeal swabs of travelers returning from United Kingdom were tested for the presence of SARS‐CoV‐2 through real‐time polymerase chain reaction (PCR) at the Department of Virology, National Institute of Health, Pakistan. Briefly, viral RNA was extracted using QIAamp Viral RNA Mini kit (Qiagen) according to manufacturer’s instructions. A two‐step strategy was used for the detection of the SARS‐CoV‐2 variant B.1.1.7 with initial screening by TaqPath™ RT‐PCR COVID‐19 kit (Thermo Fisher Scientific) followed by whole genome sequencing of spike gene target failure (SGTF) samples. The NEBNext Ultra II Directional RNA Library Prep kit for Illumina (NEW ENGLAND BioLabs Inc.) was used for library preparation according to manufacturer’s instructions and whole‐genome sequencing was performed on Illumina iSeq 100 instrument (Illumina). Sequence alignment and analysis was performed using Geneious prime software version 2020.1.2 (<a href="https://www.geneious.com/prime/" class="uri">https://www.geneious.com/prime/</a>).</p>
+<p>Between December 28, 2020 and January 03, 2021, a total of 76 samples from travelers returning from the United Kingdom were received and tested among which 38 (50%) were found SARS‐CoV‐2 positive on real‐time PCR (showing amplification of all three targets, i.e., N gene, ORF1ab and the S gene) whereas 10 (26%) samples showed the SGTF. Only six SGTF samples having low <em>C</em>t values of N gene (&lt;25) were further subjected to next generation sequencing and two samples were successfully sequenced.</p>
+<p>The two Pakistan strains MU‐NIH‐K14 and MU‐NIH‐K53 showed 99.9% nucleotide homology with the UK prototype variant (VOC‐202012/01). Phylogenetic analysis categorized Pakistani strains to B.1.1.7 lineage indicating two independent introductions that clustered with strains from Luxembourg, Spain, and United States, respectively (Figure&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013196/figure/jmv26869-fig-0001/">1</a>). Overall, the two strains showed 19 missense mutations, 6 amino acid deletions, and 5 synonymous mutations (Table&nbsp;<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8013196/table/jmv26869-tbl-0001/">1</a>). Notably, we found the N501Y mutation in the receptor binding domain of spike protein known to escalate viral binding with angiotensin‐converting enzyme 2 receptor, increase transmissibility and enables the virus to escape class 1 antibodies.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ullahsamee.github.io/posts/2022-12-Importation-of-b117-variant/images/figure1.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Phylogenetic tree of B.1.1.7 variant viruses. For phylogenetic analysis, Wuhan reference SARS‐CoV‐2 (EPI_ISL_529213) sequence and whole genome sequences of B.1.1.7 SARS‐CoV‐2 strain deposited on GISAID till January 8, 2021 were downloaded followed by multiple sequence alignment using MAFTT. The phylogenetic tree was constructed using BEAST to estimate divergence times. The Pakistani sequences are highlighted in green color. The tree was edited and visualized using Figtree software (http://tree.bio.ed.ac.uk/software/figtree/). A timescale for evolution of strain is shown at the bottom of tree. Complete genome sequences of SARS‐CoV‐2 B.1.1.7 strains (MU‐NIH‐K14 &amp; MU‐NIH‐K53) are deposited at the GISAID having accession ID’s EPI_ISL_757258 and EPI_ISL_757286</figcaption>
+</figure>
+</div>
+<p>Our sequences MU‐NIH‐K14 and MU‐NIH‐K53 also showed a spike protein P618H substitution reported as a key determinant for efficient SARS‐CoV‐2 transmission and deletion at amino acid 69–70 that has implications for diagnostic assays.</p>
+<p>Whilst the full implication and functional significance of such variants is yet to be determined, these findings warrant to scale‐up the molecular surveillance system in Pakistan to enable early detection of emerging lineages and their clinical impact. As of to date, there is a single public health federal institute (NIH) resourced to characterize SARS‐CoV‐2 variants. The national authorities should proactively focus on expanding genomic surveillance of SARS‐CoV‐2 to fortify global containment efforts in identifying epidemiologically and clinically significant variants and track their transmission lineages for effective countermeasures.</p>
+<p>Notably, Pakistan has yet to devise its vaccination strategy using an economical and community acceptable vaccine before the immunization kicks off in the country. Pakistan, since September 2020, is conducting a phase‐III clinical trial of a single‐dose anti‐COVID vaccine manufactured by a Chinese producer CanSino with 18,000 volunteers mainly in the Federal capital. Another phase‐I trial of a different Chinese vaccine SinoVac has been completed in district Karachi. With such encouraging decisions by the Government of Pakistan to boost the herd immunity and protection through vaccination preferably through a Chinese manufacturer, alarming news came out of a phase‐III trial of the Chinese Coronavac vaccine in Brazil with only 50% efficacy compared to western counterparts, that is, Moderna and Pfizer‐BioNTech with 95% efficacy. It is, therefore, critical to reconsider the selection of vaccine to win public acceptance at large in view of the chronic reluctance impeding polio eradication in the country for years.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869">paper</a></p>
+<p>Researchgate <a href="https://www.researchgate.net/publication/349220095_Importation_of_SARS-CoV-2_Variant_B117_in_Pakistan">pdf</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1016/j.molliq.2022.119393">
+
+</div>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_twitter"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{ullah2021,
+  author = {Ullah, Samee},
+  title = {Importation of {SARS-CoV-2} {Variant} {B.1.1.7} in
+    {Pakistan}},
+  volume = {93},
+  number = {5},
+  date = {2021-02-11},
+  url = {https://onlinelibrary.wiley.com/doi/10.1002/jmv.26869},
+  doi = {10.1002/jmv.26869},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-ullah2021" class="csl-entry quarto-appendix-citeas">
+Ullah, Samee. 2021. <span>“Importation of SARS-CoV-2 Variant B.1.1.7 in
+Pakistan”</span> 93 (5). <a href="https://doi.org/10.1002/jmv.26869">https://doi.org/10.1002/jmv.26869</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://ullahsamee.github.io/posts/2022-12-Importation-of-b117-variant/index.html</guid>
+  <pubDate>Wed, 10 Feb 2021 19:00:00 GMT</pubDate>
+  <media:content url="https://ullahsamee.github.io/posts/2022-12-Importation-of-b117-variant/featured.png" medium="image" type="image/png" height="112" width="144"/>
 </item>
 </channel>
 </rss>

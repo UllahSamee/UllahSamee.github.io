@@ -12,32 +12,32 @@ css: /custom.css
 
 Samee's authorship is denoted in bold;
 
-Total citations as of May 2023:
+Total citations as of Aug 2023:
 
--   [Clarivate Web of Science](https://www.webofscience.com/wos/author/record/3917370): 24 (h-index = 2)\
--   [Google Scholar](https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en): 40 (h-index = 2, i10-index = 2)
+-   [Clarivate Web of Science](https://www.webofscience.com/wos/author/record/3917370): 27 \
+-   [Google Scholar](https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en): 43 (h-index = 3, i10-index = 2)
 
 ## Peer reviewed
 
-Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello 2022. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.qmd). *Journal of Molecular Liquids*, Volume 347. doi: [10.1016/j.molliq.2021.117975](https://doi.org/10.1016/j.molliq.2021.117975). \[[pdf](/files/papers/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide.pdf)\]
+Domenica Musumeci, **Samee Ullah**, Aamer Ikram, Giovanni N Roviello 2022. [Novel insights on nucleopeptide binding: A spectroscopic and in silico investigation on the interaction of a thymine-bearing tetrapeptide with a homoadenine DNA](/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.qmd). *Journal of Molecular Liquids*, Volume 347. doi: [10.1016/j.molliq.2021.117975](https://doi.org/10.1016/j.molliq.2021.117975). \[[pdf](/files/papers/2021-Novelinsightsonnucleopeptidebindingaspectroscopic.pdf)\]
 
 ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.1016/j.molliq.2021.117975" data-hide-no-mentions="true"}
 :::
 
 \
-Adewale Oluwaseun Fadaka, Odunayo Anthonia Taiwo, Oluwatosin Adebisi Dosumu, Oluwafemi Paul Owolabi, Adebola Busola Ojo, Nicole Remaliah Samantha Sibuyi, **Samee Ullah**, Ashwil Klein, Abram Madimabe Madiehe, Mervin Meyer, Oluwafemi Adeleke Ojo 2022. [Computational prediction of potential drug-like compounds from Cannabis sativa leaf extracts targeted towards Alzheimer therapy](/posts/2022-03-Computational%20prediction%20of%20potential%20drug-like%20compounds%20from%20Cannabis%20sativa%20leaf%20extracts%20targeted%20towards%20Alzheimer%20therapy/index.qmd). *Journal of Molecular Liquids*, Volume 360. doi: <https://doi.org/10.1016/j.molliq.2022.119393>. \[[pdf](/files/papers/2022-ComputationalpredictionofpotentialdrugikecompoundsfromCannabissativaleafextractstargetedtowardsAlzheimertherapy.pdf)\]
+Adewale Oluwaseun Fadaka, Odunayo Anthonia Taiwo, Oluwatosin Adebisi Dosumu, Oluwafemi Paul Owolabi, Adebola Busola Ojo, Nicole Remaliah Samantha Sibuyi, **Samee Ullah**, Ashwil Klein, Abram Madimabe Madiehe, Mervin Meyer, Oluwafemi Adeleke Ojo 2022. [Computational prediction of potential drug-like compounds from Cannabis sativa leaf extracts targeted towards Alzheimer therapy](/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.qmd). *Journal of Molecular Liquids*, Volume 360. doi: <https://doi.org/10.1016/j.molliq.2022.119393>. \[[pdf](/files/papers/2022-ComputationalpredictionofpotentialdrugikecompoundsfromCannabissativaleafextractstargetedtowardsAlzheimertherapy.pdf)\]
 
 ::: {.altmetric-embed style="display: inline-block" data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.1016/j.molliq.2022.119393" data-hide-no-mentions="true"}
 :::
 
 \
-Misbahuddin M Rafeeq, Hussam Aly Sayed Murad, **Samee Ullah**, Zaheer Ahmed, Qamre Alam, Muhammad Bilal, Alaa Hamed Habib, Ziaullah M Sain, Muhammad Jawad Khan, Muhammad Umair. [Case report: A novel de novo loss of function variant in the DNA-binding domain of TBX2 causes severe osteochondrodysplasia](/posts/2022-03-nree-china-carbon-neutrality/index.qmd). *Frontiers in Genetics*, Volume 13. doi: <https://doi.org/10.3389/fgene.2022.1117500>. \[[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9888409/)\]
+Misbahuddin M Rafeeq, Hussam Aly Sayed Murad, **Samee Ullah**, Zaheer Ahmed, Qamre Alam, Muhammad Bilal, Alaa Hamed Habib, Ziaullah M Sain, Muhammad Jawad Khan, Muhammad Umair. [Case report: A novel de novo loss of function variant in the DNA-binding domain of TBX2 causes severe osteochondrodysplasia](/posts/2022-03-A-novel-denovo-loss-of-function-variant/index.qmd). *Frontiers in Genetics*, Volume 13. doi: <https://doi.org/10.3389/fgene.2022.1117500>. \[[pdf](/files/papers/2022-Anoveldenovolossoffunctionvariant.pdf)\]
 
 ::: {.altmetric-embed style="display: inline-block" data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.3389/fgene.2022.1117500" data-hide-no-mentions="true"}
 :::
 
 \
-Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS‐CoV‐2 variant B. 1.1. 7 in Pakistan](/posts/2022-03-nree-china-carbon-neutrality/index.qmd). *Frontiers in Genetics*, Volume 93. doi: <https://doi.org/10.1002%2Fjmv.26869>. \[[pdf](/files/papers/JMV-93-2623.pdf)\]
+Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar, Zaira Rehman, Sana Tamim, Adnan Khurshid, Abdul Ahad, Hamza Ahmad, **Samee Ullah** [Importation of SARS‐CoV‐2 variant B. 1.1. 7 in Pakistan](/posts/2022-12-Importation-of-b117-variant/index.qmd). *Journal of Medical Virology*, Volume 93. doi: <https://doi.org/10.1002/jmv.26869>. \[[pdf](/files/papers/JMV-93-2623.pdf)\]
 
 ::: {.altmetric-embed style="display: inline-block" data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.1002%2Fjmv.26869" data-hide-no-mentions="true"}
 :::
@@ -50,12 +50,12 @@ Massab Umair, Aamer Ikram, Muhammad Salman, Muhammad Masroor Alam, Nazish Badar,
 :::
 
 \
-Arpita Goswami, S. Madan Kumar, **Samee Ullah**, Milind M. Gore[De novo design of anti-variant COVID vaccine with T-cell memory](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). *bioArxiv*, Volume 347. doi: <https://doi.org/10.1101/2022.10.20.513049>. \[[pdf](/files/papers/2023-De-novodesignofantivariantCOVIDvaccinewithtcellmemory.pdf)\]
+Arpita Goswami, S. Madan Kumar, **Samee Ullah**, Milind M. Gore[De novo design of anti-variant COVID vaccine with T-cell memory](/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.qmd). *bioRxiv*, doi: [10.1101/2022.10.20.513049](https://www.biorxiv.org/content/early/2022/10/20/2022.10.20.513049). \[[pdf](/files/papers/2023-De-novodesignofantivariantCOVIDvaccinewithtcellmemory.pdf)\]
 
-::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="" data-hide-no-mentions="true"}
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="https://doi.org/10.1101/2022.10.20.513049" data-hide-no-mentions="true"}
 :::
 
-Arpita, G., **Samee ullah**, Kannika, B.R., Madan Kumar, S. [Structure of p-hydroxy benzoic acid ligand bound HosA transcriptional regulator from enteropathogenic Escherichia coli O127:H6](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). doi: <https://pdbj.org/search/status?pdbid=8aga&lang=ko>. \[[pdf](/files/papers/Novel%20insights%20on%20nucleopeptide%20binding%20A%20spectroscopic%20and%20in%20silico%20investigation%20on%20the%20interaction%20of%20a%20thymine-bearing%20tetrapeptide%20with%20a%20homoadenine%20DNA.pdf)\]
+Arpita, G., **Samee ullah**, Kannika, B.R., Madan Kumar, S. [Structure of p-hydroxy benzoic acid ligand bound HosA transcriptional regulator from enteropathogenic Escherichia coli O127:H6](/posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.qmd). doi: <https://pdbj.org/search/status?pdbid=8aga&lang=ko>. \[[pdf]()\]
 
 ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="" data-hide-no-mentions="true"}
 :::

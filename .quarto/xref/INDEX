@@ -109,5 +109,26 @@
   },
   "posts/2023-04-12-Computational-insights-on-destabilizing-mutations-in-bindingsite-3clprotease-sarscov2-omicron/index.qmd": {
     "index.html": "d877b56c"
+  },
+  "posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.qmd": {
+    "index.html": "e89c54a3"
+  },
+  "posts/2022-03-A-novel-denovo-loss-of-function-variant/index.qmd": {
+    "index.html": "c8888a7d"
+  },
+  "posts/2022-12-Importation-of-b117-variant/index.qmd": {
+    "index.html": "f96ff11f"
+  },
+  "posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.qmd": {
+    "index.html": "83d29a84"
+  },
+  "Certifications.qmd": {
+    "Certifications.html": "30bbcea7"
+  },
+  "certifications.qmd": {
+    "certifications.html": "b38dae80"
+  },
+  "tutorials.qmd": {
+    "tutorials.html": "6fa8bafe"
   }
 }
