@@ -50,6 +50,15 @@ listing:
       - "date desc"
       - "title asc"
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DH7GYCRWHH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DH7GYCRWHH');
+</script>
 
 ::: {#hero-heading}
 I am an ambitious and motivated, Computational Structural biologist with expertise in analyzing proteins and nucleic acid structures, interactions, and dynamics. Experience with structural modeling, de-novo design, simulations, and binding affinity. Background includes research investigation on protein-small molecules and peptides-nucleic acids interactions using an array of cutting-edge computational methods and experimental. Super passionate about working on impactful structural biology projects to gain atomic-level insights into intricate molecular complexes and guiding therapeutic design. **Now** **seeking PhD position,** to leverage my specialized skills and knowledge in bio-molecular structure analysis, and molecular design to push the boundaries of biological knowledge.
