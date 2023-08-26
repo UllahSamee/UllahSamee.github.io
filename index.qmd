@@ -39,6 +39,9 @@ about:
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/memento.m_o_r_i
+    - icon: google
+      text: Read more
+      href: https://www.google.com/search?q=Samee+Ullah&kgmid=/g/11j9h_gqnp
 
 listing:
   - id: recent-posts
