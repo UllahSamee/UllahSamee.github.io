@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2023-04-12-Computational-insights-on-destabilizing-mutations-in-bindingsite-3clprotease-sarscov2-omicron/index.html",
+      "/posts/2022-12-energy-systems-analysis-open-course/index.html",
+      "/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.html",
+      "/posts/2022-03-A-novel-denovo-loss-of-function-variant/index.html",
+      "/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.html",
+      "/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.html",
+      "/posts/2022-12-Importation-of-b117-variant/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-04-12-Computational-insights-on-destabilizing-mutations-in-bindingsite-3clprotease-sarscov2-omicron/index.html",
+      "/posts/2022-12-energy-systems-analysis-open-course/index.html",
+      "/posts/2022-10-Denovo-design-of-anti-variant-COVID-vaccine-with-T-cell-memory/index.html",
+      "/posts/2022-03-A-novel-denovo-loss-of-function-variant/index.html",
+      "/posts/2022-03-computational-prediction-of-potential-drug-like-compounds/index.html",
+      "/posts/2022-10-Novel-insights-on-nucleopeptide-binding-insilico-investigation-of-thymine-bearing-tetrapeptide/index.html",
+      "/posts/2022-12-Importation-of-b117-variant/index.html"
+    ]
+  },
+  {
+    "listing": "/Certifications.html",
+    "items": []
+  },
+  {
+    "listing": "/tutorials.html",
+    "items": []
+  },
+  {
+    "listing": "/certifications.html",
+    "items": []
+  }
+]
